@@ -20,11 +20,11 @@
 - Continuously learning and refining my approach through real-world projects and problem solving
 
 ---
-## Socials
+## 📱 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinruoyew)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jinruoyew@gmail.com)
 
 ---
-## Skills 🛠️
+## 🛠️ Skills 
 ![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,express,ts,angular,mongodb,git,docker,linux,mysql)
 
