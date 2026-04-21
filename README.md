@@ -21,29 +21,10 @@
 
 ---
 ## Socials
-<a href="https://linkedin.com/in/jinruoyew">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" />
-</a>
-<a href="mailto:jinruoyew@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="20" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinruoyew)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jinruoyew@gmail.com)
 
 ---
-## Skills
+## Skills 🛠️
 ![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,express,ts,angular,mongodb,git,docker,linux,mysql)
 
-
-<!--
-**jinruoyew/jinruoyew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
