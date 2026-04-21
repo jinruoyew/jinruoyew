@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Jin!
+## Software & Full Stack Developer 
 
 <!--
 **jinruoyew/jinruoyew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
